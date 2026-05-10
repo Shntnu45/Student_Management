@@ -1,0 +1,299 @@
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\appsettings.Development.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\appsettings.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Student Management.staticwebassets.endpoints.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Student Management.exe
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Student Management.deps.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Student Management.runtimeconfig.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Student Management.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Student Management.pdb
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Azure.Core.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Azure.Identity.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Humanizer.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.CodeDom.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.csproj.AssemblyReference.cache
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.AssemblyInfoInputs.cache
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.AssemblyInfo.cs
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.csproj.CoreCompileInputs.cache
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\scopedcss\bundle\Student Management.styles.css
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student .FCEED30C.Up2Date
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\refint\Student Management.dll
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.pdb
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\Student Management.genruntimeconfig.cache
+D:\CDAC\Module-9-DotNet\Dairy Mini Project\Student Management\obj\Debug\net8.0\ref\Student Management.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\appsettings.Development.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\appsettings.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Student Management.staticwebassets.endpoints.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Student Management.exe
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Student Management.deps.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Student Management.runtimeconfig.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Student Management.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Student Management.pdb
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Azure.Core.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Azure.Identity.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Humanizer.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.CodeDom.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.csproj.AssemblyReference.cache
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.AssemblyInfoInputs.cache
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.AssemblyInfo.cs
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.csproj.CoreCompileInputs.cache
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\scopedcss\bundle\Student Management.styles.css
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student .FCEED30C.Up2Date
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\refint\Student Management.dll
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.pdb
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\Student Management.genruntimeconfig.cache
+D:\CDAC\Placement\ZEST\Backend\Student Management\obj\Debug\net8.0\ref\Student Management.dll

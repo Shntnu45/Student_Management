@@ -1,0 +1,225 @@
+/* ── Design Tokens ── */
+:root {
+  --sidebar-w: 240px;
+  --sidebar-collapsed-w: 64px;
+  --topbar-h: 60px;
+  --primary: #2563eb;
+  --primary-light: #eff6ff;
+  --surface: #f8fafc;
+  --border: #e2e8f0;
+  --text: #1e293b;
+  --text-muted: #64748b;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.06);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--surface);
+  color: var(--text);
+  margin: 0;
+}
+
+/* ── App Shell ── */
+.app-shell {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* ── Sidebar ── */
+.sidebar {
+  width: var(--sidebar-w);
+  background: #fff;
+  border-right: 1px solid var(--border);
+  position: fixed;
+  top: 0; left: 0; bottom: 0;
+  z-index: 100;
+  transition: width .25s ease;
+  overflow: hidden;
+}
+
+.sidebar.collapsed { width: var(--sidebar-collapsed-w); }
+
+.sidebar-brand {
+  height: var(--topbar-h);
+  display: flex;
+  align-items: center;
+  padding: 0 1.25rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--primary);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+  gap: .5rem;
+}
+
+.sidebar-nav {
+  padding: .75rem .75rem;
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .6rem .75rem;
+  border-radius: 8px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: .875rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background .15s, color .15s;
+}
+
+.sidebar-link i { font-size: 1.1rem; flex-shrink: 0; }
+
+.sidebar-link:hover { background: var(--primary-light); color: var(--primary); }
+.sidebar-link.active { background: var(--primary-light); color: var(--primary); font-weight: 600; }
+
+.sidebar-footer {
+  padding: 1rem 1.25rem;
+  border-top: 1px solid var(--border);
+}
+
+/* ── Main Area ── */
+.main-area {
+  margin-left: var(--sidebar-w);
+  flex: 1;
+  min-width: 0;
+  transition: margin-left .25s ease;
+}
+
+.sidebar-collapsed ~ .main-area,
+.app-shell.sidebar-collapsed .main-area {
+  margin-left: var(--sidebar-collapsed-w);
+}
+
+/* ── Topbar ── */
+.topbar {
+  height: var(--topbar-h);
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.topbar-user {
+  font-size: .875rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+/* ── Content ── */
+.content-area { background: var(--surface); }
+
+/* ── Cards ── */
+.card {
+  border-radius: var(--radius) !important;
+  border: 1px solid var(--border) !important;
+}
+
+.card.shadow-sm { box-shadow: var(--shadow) !important; }
+
+/* ── Stat Cards ── */
+.stat-card { transition: transform .2s, box-shadow .2s; cursor: default; }
+.stat-card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,.1) !important; }
+
+.stat-icon {
+  width: 52px; height: 52px;
+  border-radius: 12px;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+
+.stat-value { font-size: 1.6rem; font-weight: 700; line-height: 1; }
+.stat-label { font-size: .8rem; margin-top: .2rem; }
+
+/* Bootstrap subtle color helpers */
+.bg-primary-subtle { background-color: #eff6ff !important; }
+.bg-success-subtle { background-color: #f0fdf4 !important; }
+.bg-info-subtle    { background-color: #f0f9ff !important; }
+.bg-warning-subtle { background-color: #fffbeb !important; }
+.text-primary { color: var(--primary) !important; }
+
+/* ── Table ── */
+.table th {
+  font-size: .75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+}
+
+.table td { font-size: .875rem; border-color: var(--border); }
+.table-hover tbody tr:hover { background: var(--primary-light); }
+
+/* ── Badge ── */
+.badge { font-weight: 500; border-radius: 6px; }
+
+/* ── Buttons ── */
+.btn-primary {
+  background: var(--primary);
+  border-color: var(--primary);
+}
+.btn-primary:hover { background: #1d4ed8; border-color: #1d4ed8; }
+
+.btn-outline-primary { color: var(--primary); border-color: var(--primary); }
+.btn-outline-primary:hover { background: var(--primary); border-color: var(--primary); }
+
+/* ── Pagination ── */
+.page-item.active .page-link { background: var(--primary); border-color: var(--primary); }
+.page-link { color: var(--primary); }
+
+/* ── Login Page ── */
+.login-page { background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%); }
+
+.login-card {
+  width: 100%;
+  max-width: 420px;
+  border-radius: var(--radius) !important;
+  border: 1px solid var(--border) !important;
+}
+
+/* ── Modal ── */
+.modal-content { border-radius: var(--radius) !important; }
+
+/* ── Form ── */
+.form-control:focus, .form-select:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(37,99,235,.15);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .sidebar { width: var(--sidebar-collapsed-w); }
+  .sidebar .sidebar-link span,
+  .sidebar .sidebar-brand span,
+  .sidebar .sidebar-footer small { display: none; }
+  .main-area { margin-left: var(--sidebar-collapsed-w); }
+  .app-shell.sidebar-collapsed .main-area { margin-left: 0; }
+  .app-shell.sidebar-collapsed .sidebar { width: 0; overflow: hidden; }
+}
+
+/* ── Auth Tabs ── */
+.auth-tabs { background: var(--surface); border-radius: 8px; padding: 4px; }
+.auth-tabs .nav-link {
+  border-radius: 6px;
+  color: var(--text-muted);
+  font-weight: 500;
+  font-size: .875rem;
+  border: none;
+  transition: background .15s, color .15s;
+}
+.auth-tabs .nav-link.active {
+  background: #fff;
+  color: var(--primary);
+  box-shadow: 0 1px 4px rgba(0,0,0,.1);
+}
+.auth-tabs .nav-link:not(.active):hover { color: var(--primary); background: transparent; }
